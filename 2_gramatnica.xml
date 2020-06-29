@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gramatnica>
+	<book kods="9781529406481" pieejams="ja">
+		<title valoda="en">The Girl Before</title>
+		<author>
+			<name>JP</name>
+			<surname>Delaney</surname>
+		</author>
+		<year>2018</year>
+		<genre>Kriminālromāns</genre>
+		<price id="EUR">3.90</price>
+		<img>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485972587l/28016509._SY475_.jpg</img>
+	</book>
+	<book kods="9789934087653" pieejams="ja">
+		<title valoda="lv">Cilkas Ceļojums</title>
+		<author>
+			<name>Hetere</name>
+			<middlename/>
+			<surname>Morisa</surname>
+		</author>
+		<year>2020</year>
+		<genre>Klasika</genre>
+		<price id="EUR">17.85</price>
+		<img>https://www.zvaigzne.lv/images/books/190337/300x0_cilkascelojums_978-9934-0-8765-3_1.jpg</img>
+	</book>
+	<book kods="9789934204081" pieejams="ne">
+		<title valoda="lv">Viņi dejoja vienu vasaru</title>
+		<author>
+			<name>Māris</name>
+			<middlename/>
+			<surname>Čaklais</surname>
+		</author>
+		<year>2020</year>
+		<genre>Dzeja</genre>
+		<price id="EUR">11.35</price>
+		<img>https://www.jumava.lv/media/k2/items/cache/5795052373f77691457fbf2daa1b87cc_XL.jpg</img>
+	</book>
+	<book kods="9781857988536" pieejams="ne">
+		<title valoda="en">Ubik</title>
+		<author>
+			<name>Philip</name>
+			<middlename>K</middlename>
+			<surname>Dick</surname>
+		</author>
+		<year>2004</year>
+		<genre>Romāns</genre>
+		<price id="EUR">1.95</price>
+		<img>https://images-na.ssl-images-amazon.com/images/I/41XRn1U39mL._SX319_BO1,204,203,200_.jpg</img>
+	</book>
+	<book kods="9781473210202" pieejams="ja">
+		<title valoda="en">The Medusa Chronicle</title>
+		<author>
+			<name>Stephen</name>
+			<middlename/>
+			<surname>Baxter</surname>
+		</author>
+		<author>
+			<name>Alastair</name>
+			<middlename/>
+			<surname>Reynolds</surname>
+		</author>
+		<year>2017</year>
+		<genre>Fantastika</genre>
+		<price id="EUR">2.34</price>
+		<img>https://upload.wikimedia.org/wikipedia/en/c/c5/Medusa_Chronicles_Baxter_Reynolds_cover.jpg</img>
+	</book>
+
+</gramatnica>
